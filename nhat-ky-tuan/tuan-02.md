@@ -20,36 +20,36 @@
 
 ## Công việc
 
-| #  | Nội dung công việc                                                                    | Annotator                        | Reviewer                | Hoàn thành | Ghi chú                          |
-| -- | ---------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | ------------ | --------------------------------- |
-| 1  | [Job #2846](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2846) — W2-POSE-G6-T1    | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-CHU-MẠNH-02281   | ⬜ 0 %       | Chưa thực hiện frame           |
-| 2  | [Job #2847](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2847) — W2-POSE-G6-T1    | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review  |
-| 3  | [Job #2848](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2848) — W2-POSE-G6-T1    | @T048-MAI-LƯU-LY-02157          | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review  |
-| 4  | [Job #2849](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2849) — W2-POSE-G6-T1    | @T048-NGUYỄN-THÙY-AN-02063     | @T048-CHU-MẠNH-02281   | ⬜ 0%        | Chưa thực hiện frame           |
-| 5  | [Job #2850](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2850) — W2-POSEPRE-G6-T1 | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-CHU-MẠNH-02281   | ⬜ 0%        | Chưa thực hiện frame           |
-| 6  | [Job #2851](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2851) — W2-POSEPRE-G6-T1 | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review  |
-| 7  | [Job #2852](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2852) — W2-POSEPRE-G6-T1 | @T048-MAI-LƯU-LY-02157          | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review  |
-| 8  | [Job #2853](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2853) — W2-POSEPRE-G6-T1 | @T048-NGUYỄN-THÙY-AN-02063     | @T048-CHU-MẠNH-02281   | ⬜ 0%        | Chưa thực hiện frame           |
-| 9  | [Job #2854](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2854) — W2-FACE-G6-T1    | @T048-CHU-MẠNH-02281            | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review  |
-| 10 | [Job #2855](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2855) — W2-FACE-G6-T1    | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-MAI-LƯU-LY-02157 | ⬜ 0%        | Chưa thực hiện 5 frame         |
-| 11 | [Job #2856](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2856) — W2-FACE-G6-T1    | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review  |
-| 12 | [Job #2857](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2857) — W2-FACE-G6-T1    | @T048-NGUYỄN-THÙY-AN-02063     | @T048-MAI-LƯU-LY-02157 | ⬜ 0%        | Chưa thực hiện 5 frame         |
-| 13 | [Job #2858](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2858) — W2-FACEPRE-G6-T1 | @T048-CHU-MẠNH-02281            | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review  |
-| 14 | [Job #2859](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2859) — W2-FACEPRE-G6-T1 | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review  |
-| 15 | [Job #2860](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2860) — W2-FACEPRE-G6-T1 | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review  |
-| 16 | [Job #2861](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2861) — W2-FACEPRE-G6-T1 | @T048-NGUYỄN-THÙY-AN-02063     | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review  |
+| #  | Nội dung công việc                                                                    | Annotator                        | Reviewer                | Hoàn thành | Ghi chú                         |
+| -- | ---------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | ------------ | -------------------------------- |
+| 1  | [Job #2846](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2846) — W2-POSE-G6-T1    | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-CHU-MẠNH-02281   | ✅ 100%      | Chưa thực hiện frame          |
+| 2  | [Job #2847](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2847) — W2-POSE-G6-T1    | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review |
+| 3  | [Job #2848](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2848) — W2-POSE-G6-T1    | @T048-MAI-LƯU-LY-02157          | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review |
+| 4  | [Job #2849](https://cvat.note.transformerlabs.ai/tasks/502/jobs/2849) — W2-POSE-G6-T1    | @T048-NGUYỄN-THÙY-AN-02063     | @T048-CHU-MẠNH-02281   | ⬜ 0%        | Chưa thực hiện frame          |
+| 5  | [Job #2850](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2850) — W2-POSEPRE-G6-T1 | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-CHU-MẠNH-02281   | ✅ 100%      | Chưa thực hiện frame          |
+| 6  | [Job #2851](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2851) — W2-POSEPRE-G6-T1 | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review |
+| 7  | [Job #2852](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2852) — W2-POSEPRE-G6-T1 | @T048-MAI-LƯU-LY-02157          | @T048-CHU-MẠNH-02281   | ✅ 100%      | Đã hoàn thành và qua review |
+| 8  | [Job #2853](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2853) — W2-POSEPRE-G6-T1 | @T048-NGUYỄN-THÙY-AN-02063     | @T048-CHU-MẠNH-02281   | ⬜ 0%        | Chưa thực hiện frame          |
+| 9  | [Job #2854](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2854) — W2-FACE-G6-T1    | @T048-CHU-MẠNH-02281            | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review |
+| 10 | [Job #2855](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2855) — W2-FACE-G6-T1    | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Chưa thực hiện 5 frame        |
+| 11 | [Job #2856](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2856) — W2-FACE-G6-T1    | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review |
+| 12 | [Job #2857](https://cvat.note.transformerlabs.ai/tasks/504/jobs/2857) — W2-FACE-G6-T1    | @T048-NGUYỄN-THÙY-AN-02063     | @T048-MAI-LƯU-LY-02157 | ⬜ 0%        | Chưa thực hiện 5 frame        |
+| 13 | [Job #2858](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2858) — W2-FACEPRE-G6-T1 | @T048-CHU-MẠNH-02281            | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review |
+| 14 | [Job #2859](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2859) — W2-FACEPRE-G6-T1 | @T048-LÊ-ĐỨC-TÚ-02045        | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review |
+| 15 | [Job #2860](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2860) — W2-FACEPRE-G6-T1 | @T048-NGUYỄN-TRỌNG-HÙNG-02057 | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review |
+| 16 | [Job #2861](https://cvat.note.transformerlabs.ai/tasks/505/jobs/2861) — W2-FACEPRE-G6-T1 | @T048-NGUYỄN-THÙY-AN-02063     | @T048-MAI-LƯU-LY-02157 | ✅ 100%      | Đã hoàn thành và qua review |
 
 Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) · ⛔ bị chặn (ghi lý do) · ⬜ chưa bắt đầu · — chưa có số liệu cập nhật
 
 ## Tổng kết
 
-- Bộ Face Landmark VF-50: đã gán 60/70 frame.
-- Bộ Human Pose: đã gán 40/70 frame.
-- Task W2-FACE-G6-T1: đã gán 10/20 frame; còn 10 frame thuộc các job #2855 và #2857.
-- Task W2-POSEPRE-G6-T1: đã gán 20/40 frame (25%); còn 20 frame thuộc các job[#2853](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2853) và [#2850](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2850)
+- Bộ Face Landmark VF-50: đã gán 65/70 frame.
+- Bộ Human Pose: đã gán 55/70 frame.
+- Task W2-FACE-G6-T1: đã gán 15/20 frame; còn 5 frame thuộc job #2857.
+- Task W2-POSEPRE-G6-T1: đã gán 30/40 frame (25%); còn 10 frame thuộc job[#2853](https://cvat.note.transformerlabs.ai/tasks/503/jobs/2853)
 - Task W2-FACEPRE-G6-T1: đã gán và review 50/50 frame (100%).
-- Task W2-POSE-G6-T1: đã gán 10/20 frame (50%), còn 10 frame thuộc các job #2849 , #2849
-- Các job #2846, #2849 ,#2850, #2853 , #2855 và #2857 chưa có số liệu tiến độ cuối kỳ để tổng hợp.
+- Task W2-POSE-G6-T1: đã gán 15/20 frame (50%), còn 10 frame thuộc job #2849
+- Các job  #2849 ,#2853 và #2857 chưa có số liệu tiến độ cuối kỳ để tổng hợp.
 - Toàn bộ phần công việc đã thực hiện được báo cáo là đã qua review 100%.
 - Chưa phát sinh edge case hoặc thắc mắc mới.
 
